@@ -1,0 +1,1065 @@
+fileFormatVersion: 2
+guid: e1a176977afd80244a3753157c5d1dab
+timeCreated: 1439910463
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fruit Banana
+    21300002: Fruit Nho
+    21300004: Fruit_2
+    21300006: Fruit Watermelon
+    21300008: Fruit Thom
+    21300010: Fruit_5
+    21300012: Fruit_6
+    21300014: Fruit Dau
+    21300016: Fruit_8
+    21300018: Fruit Dau
+    21300020: Fruit_10
+    21300022: Fruit_11
+    21300024: Fruit Ot
+    21300026: Fruit_13
+    21300028: Fruit_14
+    21300030: Fruit_7
+    21300032: Fruit_15
+    21300034: Fruit_16
+    21300036: Fruit Carrot
+    21300038: Fruit_18
+    21300040: Fruit_19
+    21300042: Fruit Bap
+    21300044: Fruit_21
+    21300046: Fruit_22
+    21300048: Fruit_23
+    21300050: Fruit_24
+    21300052: Fruit_25
+    21300054: Fruit_26
+    21300056: Fruit Cherry
+    21300058: Bridge falling
+    21300060: Props for all_4
+    21300062: Props for all_6
+    21300064: Props for all_7
+    21300066: Chanh
+    21300068: Props for all_9
+    21300070: Props for all_11
+    21300072: Props for all_12
+    21300074: Props for all_14
+    21300076: Props for all_15
+    21300078: Props for all_16
+    21300080: Props for all_17
+    21300082: Props for all_19
+    21300084: Props for all_20
+    21300086: Props for all_22
+    21300088: Props for all_23
+    21300090: Props for all_24
+    21300092: Props for all_25
+    21300094: Props for all_26
+    21300096: Props for all_27
+    21300098: Fruit Chanh
+    21300100: Platform I
+    21300102: Box-Metal
+    21300104: Box-Plus
+    21300106: Box-Wooden
+    21300108: Platform
+    21300110: Loxo 3
+    21300112: Loxo 2
+    21300114: Loxo 1
+    21300116: Platform II
+    21300118: Dirt I
+    21300120: Box-Plus
+    21300122: Box-Metal
+    21300124: Box-Wooden
+    21300126: Gai-Top
+    21300128: Gai-Bottom
+    21300130: Monster 01
+    21300132: Monster 02 - hand.R
+    21300134: Monster 02 - body
+    21300136: Monster 02 - hand.L
+    21300138: Monster 02 - leg.R
+    21300140: Monster 02 - leg.L
+    21300142: Monster 03 - hand.R
+    21300144: Monster 03 - hand.L
+    21300146: Monster 03 - body
+    21300148: Monster 03 - leg.R
+    21300150: Monster 03 - leg.L
+    21300152: Cannon-Body
+    21300154: Cannon-Standing
+    21300156: Box-Wooden 2
+    21300158: Box-Wooden 1
+    21300160: Box-Wooden 3
+    21300162: Box-Wooden 4
+    21300164: Mixground Night
+    21300166: Pipe - Blue
+    21300168: Pipe - Green
+    21300170: Props for all_2
+    21300172: Pipe - Blue - Mid
+    21300174: Monster Pipe Cang.R
+    21300176: Monster Pipe Cang.L
+    21300178: Monster Pipe Body
+    21300180: Pipe - Green Mid
+    21300182: Saw Blade Small
+    21300184: Saw Blade Big
+    21300186: Water
+    21300188: Wave1
+    21300190: Wave2
+    21300192: Wave3
+    21300194: Water BG
+    21300196: Water Front
+    21300198: Wooden
+    21300200: Box Float
+    21300202: Saved Point
+    21300204: Monster Bird Body
+    21300206: Monster Bird Swing.R
+    21300208: Monster Bird Swing.L
+    21300210: Monster Bird Swing.R
+    21300212: Monster Fish Body
+    21300214: Monster Fish tail
+    21300216: Monster Fish vay
+    21300218: Tutorial
+    21300220: Fire 1
+    21300222: Fire 2
+    21300224: Fire 3
+    21300226: Fire 4
+    21300228: Fire 5
+    21300230: Monster 04
+    21300232: Monster eye
+    21300234: Fish
+    21300236: Big-Bullet
+    21300238: Monster 05
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Fruit Banana
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fruit Nho
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 937
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fruit Thom
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 935
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bridge falling
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 996
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 939
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fruit Watermelon
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 935
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 882
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 879
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fruit Chanh
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 879
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_9
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 872
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fruit Dau
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 871
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 808
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 809
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fruit Ot
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 800
+        width: 25
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 810
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 812
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 734
+        width: 61
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 743
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fruit Carrot
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 735
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 741
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 742
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fruit Bap
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 738
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 666
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_23
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 664
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 666
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 687
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 677
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Props for all_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 677
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fruit Cherry
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 876
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Platform I
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 995
+        width: 152
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Platform II
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 190
+        width: 63
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Loxo 3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 0
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Loxo 2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Loxo 1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dirt I
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 182
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box-Plus
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 107
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box-Metal
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 106
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gai-Top
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 46
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Gai-Bottom
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 01
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 65
+        height: 75
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 02 - hand.R
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 14
+        height: 52
+      alignment: 9
+      pivot: {x: .4663876, y: .174216494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 02 - body
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 02 - hand.L
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 14
+        height: 51
+      alignment: 9
+      pivot: {x: .567226946, y: .16321522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 02 - leg.R
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 23
+        height: 11
+      alignment: 9
+      pivot: {x: .704598486, y: .906408131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 02 - leg.L
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 24
+        height: 11
+      alignment: 9
+      pivot: {x: .313731194, y: .927797914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 03 - hand.R
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 104
+        width: 43
+        height: 27
+      alignment: 9
+      pivot: {x: .833049715, y: .0937268287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 03 - hand.L
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 105
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: .205452472, y: .0886486024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 03 - body
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 19
+        width: 78
+        height: 84
+      alignment: 9
+      pivot: {x: .63258791, y: .120144479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 03 - leg.R
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 20
+        height: 16
+      alignment: 9
+      pivot: {x: .597499073, y: .891668499}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 03 - leg.L
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 20
+        height: 18
+      alignment: 9
+      pivot: {x: .271472156, y: .821630895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon-Body
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 249
+        width: 166
+        height: 121
+      alignment: 9
+      pivot: {x: .375321716, y: .355426371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cannon-Standing
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 248
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box-Wooden 2
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 136
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box-Wooden 1
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 136
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box-Wooden 3
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 105
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box-Wooden 4
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 105
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mixground Night
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 632
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipe - Blue
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 379
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 32, y: 11, z: 34, w: 27}
+    - name: Pipe - Green
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 381
+        width: 96
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 34, y: 9, z: 40, w: 27}
+    - name: Props for all_2
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 167
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipe - Blue - Mid
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 380
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster Pipe Cang.R
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: .872024, y: .149159655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster Pipe Cang.L
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 80
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: .127977818, y: .156095505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster Pipe Body
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipe - Green Mid
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 383
+        width: 96
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw Blade Small
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 455
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw Blade Big
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 455
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water BG
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 834
+        width: 512
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Water Front
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 698
+        width: 512
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Wooden
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2
+        width: 216
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box Float
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 108
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saved Point
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 106
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster Bird Body
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 129
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster Bird Swing.R
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 116
+        width: 20
+        height: 12
+      alignment: 9
+      pivot: {x: .906853378, y: .850737274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster Bird Swing.L
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 115
+        width: 23
+        height: 13
+      alignment: 9
+      pivot: {x: .127914757, y: .780589759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster Fish Body
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 85
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster Fish tail
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 109
+        width: 10
+        height: 26
+      alignment: 9
+      pivot: {x: .163517758, y: .57686764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster Fish vay
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 88
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: .0609283447, y: .253425598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tutorial
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 106
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fire 1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 498
+        width: 73
+        height: 152
+      alignment: 9
+      pivot: {x: .403744936, y: .0220792666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fire 2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 498
+        width: 73
+        height: 152
+      alignment: 9
+      pivot: {x: .403843701, y: .0225781891}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fire 3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 498
+        width: 73
+        height: 152
+      alignment: 9
+      pivot: {x: .444223285, y: .0236645751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fire 4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 498
+        width: 79
+        height: 152
+      alignment: 9
+      pivot: {x: .400097817, y: .0220979396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fire 5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 498
+        width: 78
+        height: 152
+      alignment: 9
+      pivot: {x: .404180288, y: .0236679874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 04
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster eye
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 87
+        width: 36
+        height: 17
+      alignment: 9
+      pivot: {x: .504408121, y: .190374032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fish
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 973
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Big-Bullet
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 588
+        width: 114
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Monster 05
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 9
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

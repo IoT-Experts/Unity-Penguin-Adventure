@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 8228b972027e5454bb9e2d50a905922e
+timeCreated: 1439002626
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Diamond White
+    21300002: Diamond Blue
+    21300004: Flower
+    21300006: Mushroom
+    21300008: Prop1_4
+    21300010: Flower Pipe
+    21300012: Ladder
+    21300014: Prop1_7
+    21300016: Prop1_8
+    21300018: Land.L
+    21300020: Land.M
+    21300022: Land.R
+    21300024: Barrel
+    21300026: Dirt
+    21300028: Prop1_14
+    21300030: Grass
+    21300032: Direction
+    21300034: Box
+    21300036: Fence
+    21300038: Box-metal
+    21300040: Box-plus
+    21300042: Dirt Dark
+    21300044: Land Snow.L
+    21300046: Land Snow.M
+    21300048: Land Snow.R
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Diamond White
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 935
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Diamond Blue
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 934
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flower
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 963
+        width: 73
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mushroom
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 923
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prop1_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 937
+        width: 272
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Flower Pipe
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 620
+        width: 120
+        height: 389
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ladder
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 752
+        width: 72
+        height: 230
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prop1_7
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 922
+        width: 116
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prop1_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 911
+        width: 91
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land.L
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land.M
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 853
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land.R
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 853
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Barrel
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 755
+        width: 73
+        height: 142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dirt
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 759
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prop1_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 756
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Grass
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 760
+        width: 110
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Direction
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 759
+        width: 107
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 757
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fence
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 850
+        width: 137
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box-metal
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 690
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Box-plus
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 623
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Dirt Dark
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 656
+        width: 89
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Snow.L
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 565
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Snow.M
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 563
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Land Snow.R
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 563
+        width: 109
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
